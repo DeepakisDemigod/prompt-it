@@ -1,3 +1,3 @@
-# OpenAI's DaVinci Model's
+# 🚀 OpenAI's DaVinci Model's
 Practical Use 
-- just prompt it 🚀
+- just prompt it 
